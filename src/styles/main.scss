@@ -96,8 +96,8 @@ span{
 iframe{
     border-radius: 10px;
 
-    @media (max-width: 468px){
-        max-width: 400px;
+    @media (max-width:768px){
+        max-width: 380px;
     }
 }
 
