@@ -140,3 +140,24 @@ iframe{
         
     }
 }
+
+footer{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    background-color: #252525;
+}
+footer img{
+    max-width: 30px;
+    margin: 10px;
+}
+
+.icons{
+    justify-content: center;
+
+}
+
+footer a{
+    text-decoration: none;
+}
