@@ -15,7 +15,7 @@
         
     }
     @media (max-width: 768px){
-        grid-template-columns: 1fr ;
+        grid-template-columns: 1fr 1fr;
         
     }
 
@@ -43,12 +43,12 @@
         
     }
     @media (max-width: 768px){
-        max-width: 280px;
+        max-width: 200px;
         
     }
 
     @media (max-width: 480px){
-        max-width: 340px;
+        max-width: 300px;
         
     }
 
